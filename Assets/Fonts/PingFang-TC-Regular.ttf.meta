@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4ccdd9087381e0b42b653ba5969713d5
+timeCreated: 1522066827
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: .PingFang TC
+  fontNames:
+  - .PingFang TC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

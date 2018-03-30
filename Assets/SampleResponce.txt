@@ -1,0 +1,326 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+
+<title>課表列印</title>
+<style>
+<!--
+.A9          { font-family: Arial; font-size: 9pt; color: #0000FF }
+-->
+</style>
+</head>
+<body>
+ 
+  <form method="POST" action="FIRST.ASP" name="QUERY" target="first">  
+  <table border="0" width="99%" cellspacing="0" cellpadding="0"> 
+  <tr> 
+    <td width="30%"> 年月：2018年3月 課表&nbsp;</td>                                                                                                                                                                      
+    <td width="26%"> <p align="center"><font color="#800000"><<　依教師：WixLitariz　&gt;&gt;</font></td>  
+    <td width="37%"> <p align="right">製成時間：2001/02/16 PM 05:43:55
+    </td>
+  </tr>
+  </table>
+  <table border="1" width="99%" bgcolor="#CAEEFF" cellspacing="0" cellpadding="0" bordercolor="#CAEEFF" bordercolorlight="#009EEA" bordercolordark="#FFFFFF" height="50" class="A9">  
+  <tr>
+    <td width="6%" colspan="2" class="A9" height="30">
+      <p align="center">星期<br>週別</td>
+    <td width="13%" align="center" class="A9" height="30">星期一</td>
+    <td width="13%" align="center" class="A9" height="30">星期二</td>
+    <td width="13%" align="center" class="A9" height="30">星期三</td>
+    <td width="13%" align="center" class="A9" height="30">星期四</td>
+    <td width="13%" align="center" class="A9" height="30">星期五</td>
+    <td width="13%" align="center" class="A9" height="30">星期六</td>
+    <td width="14%" align="center" class="A9" height="30">星期日</td>
+  </tr>
+    
+  <tr>
+    <td width="3%" rowspan="3" class="A9">
+      <p align="center">第<br>1<br>週</td>
+    <td width="3%" align="center" class="A9">上<br>午</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">　</font> <br>  <br><br></td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">　</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">　</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／1</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／2</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／3</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／4</font> <br> 　 <br>　<br>　</td>
+        
+  </tr>
+  <tr>
+    <td width="3%" align="center" class="A9">下<br>午</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+  </tr>
+  <tr>
+    <td width="3%" align="center" class="A9">夜<br>間</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+  </tr>
+    
+  <tr>
+    <td width="3%" rowspan="3" class="A9">
+      <p align="center">第<br>2<br>週</td>
+    <td width="3%" align="center" class="A9">上<br>午</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／5</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／6</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／7</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／8</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／9</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／10</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／11</font> <br> 　 <br>　<br>　</td>
+        
+  </tr>
+  <tr>
+    <td width="3%" align="center" class="A9">下<br>午</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+  </tr>
+  <tr>
+    <td width="3%" align="center" class="A9">夜<br>間</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+  </tr>
+    
+  <tr>
+    <td width="3%" rowspan="3" class="A9">
+      <p align="center">第<br>3<br>週</td>
+    <td width="3%" align="center" class="A9">上<br>午</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／12</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／13</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／14</font> <br> 　<b>BU102</b> <br>　<u>網際網路程式</u><br>　<b>107</b></td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／15</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／16</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／17</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／18</font> <br> 　 <br>　<br>　</td>
+        
+  </tr>
+  <tr>
+    <td width="3%" align="center" class="A9">下<br>午</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<b>BU102</b><br>　<u>網際網路程式</u><br>　<b>107</b></td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+  </tr>
+  <tr>
+    <td width="3%" align="center" class="A9">夜<br>間</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+  </tr>
+    
+  <tr>
+    <td width="3%" rowspan="3" class="A9">
+      <p align="center">第<br>4<br>週</td>
+    <td width="3%" align="center" class="A9">上<br>午</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／19</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／20</font> <br> 　<b>BU102</b> <br>　<u>網際網路程式</u><br>　<b>107</b></td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／21</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／22</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／23</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／24</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／25</font> <br> 　 <br>　<br>　</td>
+        
+  </tr>
+  <tr>
+    <td width="3%" align="center" class="A9">下<br>午</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<b>BU102</b><br>　<u>網際網路程式</u><br>　<b>107</b></td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+  </tr>
+  <tr>
+    <td width="3%" align="center" class="A9">夜<br>間</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+  </tr>
+    
+  <tr>
+    <td width="3%" rowspan="3" class="A9">
+      <p align="center">第<br>5<br>週</td>
+    <td width="3%" align="center" class="A9">上<br>午</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／26</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／27</font> <br> 　<b>BU102</b> <br>　<u>網際網路程式</u><br>　<b>107</b></td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／28</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／29</font> <br> 　<b>BU102</b> <br>　<u>網際網路程式</u><br>　<b>107</b></td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／30</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">3／31</font> <br> 　 <br>　<br>　</td>
+    
+    <td width="13%" class="A9"><font color="#FF0000">4／1</font> <br> 　 <br>　<br>　</td>
+        
+  </tr>
+  <tr>
+    <td width="3%" align="center" class="A9">下<br>午</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<b>BU102</b><br>　<u>網際網路程式</u><br>　<b>107</b></td>
+        
+    <td width="13%" class="A9">　<b>BU102</b><br>　<u>專題</u><br>　<b>107</b></td>
+        
+    <td width="13%" class="A9">　<b>BU102</b><br>　<u>網際網路程式</u><br>　<b>107</b></td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+  </tr>
+  <tr>
+    <td width="3%" align="center" class="A9">夜<br>間</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+    <td width="13%" class="A9">　<br>　<br>　</td>
+        
+  </tr>
+    
+</table></form>
+  
+</body>
+</html>
